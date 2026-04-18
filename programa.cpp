@@ -1,12 +1,3 @@
-/*
- * ============================================================
- *  REGISTRO DE ACCESO A LABORATORIO DE CÓMPUTO
- * ============================================================
- * Autor  : Marvin Valdez
- * Versión: 1.0  (Primera fase)
- * ============================================================
- */
-
 #include <iostream> // entrada y salida
 #include <string>   // cadenas
 #include <limits>   // limpiar el buffer / limite numerico
